@@ -1,0 +1,39 @@
+.navbar-brand {
+	padding-top: 5px;
+}
+.navbar{
+	margin-left:10px;
+	margin-right : 10px;
+}
+
+.card {
+	margin-left:10px;
+	margin-right : 10px;
+}
+.espaco{
+	padding-top: 10px;
+}
+.alert{
+	padding-top: 5px;
+
+	margin-left:10px;
+	margin-right : 10px;
+	
+}
+
+.ms-link-panel{
+	float: right;	
+}
+
+.ms-titulo-panel{
+padding-top: 0px;
+	float: left;	
+}
+
+input:invalid {
+  background-color: pink;
+}
+
+input:valid {
+  background-color: #ddffdd;
+}
